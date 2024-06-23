@@ -1,4 +1,4 @@
-# Three Level Software Company Network Architecture
+# ART Software Company (Three Level)
 
 Welcome to the Three Level Software Company network architecture documentation. This document outlines the network setup across three levels of the company, detailing the equipment and connectivity for each level.
 
